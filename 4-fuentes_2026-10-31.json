@@ -1,0 +1,114 @@
+{
+  "episode": "boletin-2026-10-31",
+  "published": "Sat, 31 Oct 2026 09:50:32 +0100",
+  "sources": [
+    {
+      "id": "S1",
+      "section": "Barcelona",
+      "title": "El Tiempo: Barcelona - Predicción 7 días | AEMET | consultado 2026-10-31",
+      "url": "https://www.aemet.es/es/eltiempo/prediccion/municipios/barcelona-id08019"
+    },
+    {
+      "id": "S2",
+      "section": "Bilbao y Bizkaia",
+      "title": "El Tiempo: Bilbao - Predicción 7 días | AEMET | consultado 2026-10-31",
+      "url": "https://www.aemet.es/es/eltiempo/prediccion/municipios/bilbao-id48020"
+    },
+    {
+      "id": "S3",
+      "section": "Ginebra y alrededores",
+      "title": "Local forecast data Genève | MeteoSwiss Open Data | 20261031",
+      "url": "https://data.geo.admin.ch/api/stac/v1/collections/ch.meteoschweiz.ogd-local-forecasting"
+    },
+    {
+      "id": "S4",
+      "section": "Mercados",
+      "title": "Nasdaq Composite Historical Data - Yahoo Finance | Oct 30, 2026",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/history/"
+    },
+    {
+      "id": "S5",
+      "section": "Mercados",
+      "title": "Dow Jones Industrial Average Historical Data - Yahoo Finance | Oct 30, 2026",
+      "url": "https://finance.yahoo.com/quote/%5EDJI/history/"
+    },
+    {
+      "id": "S6",
+      "section": "Mercados",
+      "title": "S&P 500 Historical Data - Yahoo Finance | Oct 30, 2026",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/history/"
+    },
+    {
+      "id": "S7",
+      "section": "Mercados",
+      "title": "Euro Stoxx 50 Historical Data - Yahoo Finance | Oct 30, 2026",
+      "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history/"
+    },
+    {
+      "id": "S8",
+      "section": "Mercados",
+      "title": "CAC 40 Historical Data - Yahoo Finance | Oct 30, 2026",
+      "url": "https://finance.yahoo.com/quote/%5EFCHI/history/"
+    },
+    {
+      "id": "S9",
+      "section": "Mercados",
+      "title": "Swiss Market Index Historical Data - Yahoo Finance | Oct 30, 2026",
+      "url": "https://finance.yahoo.com/quote/%5ESSMI/history/"
+    },
+    {
+      "id": "S10",
+      "section": "Mercados",
+      "title": "EUR/USD Historical Data - Yahoo Finance | Oct 30, 2026",
+      "url": "https://finance.yahoo.com/quote/EURUSD%3DX/history/"
+    },
+    {
+      "id": "S11",
+      "section": "Mercados",
+      "title": "EUR/CHF Historical Data - Yahoo Finance | Oct 30, 2026",
+      "url": "https://finance.yahoo.com/quote/EURCHF%3DX/history/"
+    },
+    {
+      "id": "S12",
+      "section": "Mundo",
+      "title": "Poland's Sikorski calls for rapid ceasefire in Black Sea to ...",
+      "url": "https://www.reuters.com/world/europe/polands-sikorski-calls-rapid-ceasefire-black-sea-allow-food-shipments-2026-10-31"
+    },
+    {
+      "id": "S13",
+      "section": "España",
+      "title": "Las grandes ciudades y los comercios se blindan ante posibles disturbios por las movilizaciones espontáneas de Blocus | España | EL PAÍS",
+      "url": "https://elpais.com/espana/2026-10-30/las-grandes-ciudades-y-los-comercios-se-blindan-ante-posibles-disturbios-por-las-movilizaciones-espontaneas-de-blocus.html"
+    },
+    {
+      "id": "S14",
+      "section": "España",
+      "title": "Radiografía del sistema de seguridad que dejó de funcionar antes del accidente de Urda: casi una caída cada dos días | España | EL PAÍS",
+      "url": "https://elpais.com/espana/2026-10-31/radiografia-del-sistema-de-seguridad-que-dejo-de-funcionar-antes-del-accidente-de-urda-casi-una-caida-cada-dos-dias.html"
+    },
+    {
+      "id": "S15",
+      "section": "Barcelona",
+      "title": "Un despliegue masivo de Mossos para una decena de convocatorias Blocus el sábado en Cataluña | Noticias de Cataluña | EL PAÍS",
+      "url": "https://elpais.com/espana/catalunya/2026-10-30/un-despliegue-masivo-de-mossos-para-una-decena-de-convocatorias-blocus-el-sabado-en-cataluna.html"
+    },
+    {
+      "id": "S16",
+      "section": "Barcelona",
+      "title": "Detenidos dos jóvenes por organizar los saqueos de Blocus del sábado en Barcelona | Noticias de Cataluña | EL PAÍS",
+      "url": "https://elpais.com/espana/catalunya/2026-10-30/detenido-un-menor-por-los-organizar-los-saqueos-de-blocus-del-sabado-en-barcelona.html"
+    },
+    {
+      "id": "S17",
+      "section": "Bilbao y Bizkaia",
+      "title": "Bilbao vive un Halloween bajo vigilancia con la Gran Vía tapiada ante Blocus",
+      "url": "https://bilbaohiria.com/bilbao/blocus-bilbao-hoy-31-octubre-halloween-gran-via-tapiada"
+    },
+    {
+      "id": "S18",
+      "section": "Ginebra y alrededores",
+      "title": "Genève : le PS lance un référendum contre la baisse des HBM | RTS",
+      "url": "https://www.rts.ch/info/regions/geneve/2026/article/geneve-le-ps-lance-un-referendum-contre-la-baisse-des-hbm-29400662.html"
+    }
+  ]
+}

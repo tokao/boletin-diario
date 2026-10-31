@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Boletín diario</title>
+  <link>https://tokao.github.io/boletin-diario</link>
+  <description>Briefing diario de noticias y mercados, revisado editorialmente antes de publicar.</description>
+  <language>es-es</language>
+  <atom:link href="https://tokao.github.io/boletin-diario/rss.xml" rel="self" type="application/rss+xml" />
+  <itunes:block>Yes</itunes:block>
+  <itunes:image href="https://tokao.github.io/boletin-diario/cover.png" />
+  <image><url>https://tokao.github.io/boletin-diario/cover.png</url><title>Boletín diario</title><link>https://tokao.github.io/boletin-diario</link></image>
+  <item>
+    <title>Boletín diario 31-10-2026</title>
+    <link>https://tokao.github.io/boletin-diario/boletin_2026-10-31.mp3</link>
+    <guid isPermaLink="false">boletin-2026-10-31</guid>
+    <pubDate>Sat, 31 Oct 2026 09:50:32 +0100</pubDate>
+    <description>Briefing diario de noticias y mercados, revisado editorialmente antes de publicar.</description>
+    <enclosure url="https://tokao.github.io/boletin-diario/boletin_2026-10-31.mp3" length="2530944" type="audio/mpeg" />
+    <itunes:duration>422</itunes:duration>
+    <itunes:author>Boletín diario</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+</channel>
+</rss>
